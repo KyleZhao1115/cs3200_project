@@ -1,3 +1,5 @@
+drop database MusicDB_Project;
+
 create database MusicDB_Project;
 
 use MusicDB_Project;
